@@ -1,0 +1,2 @@
+get('http://localhost:3000/stock/tsla');
+get('http://localhost:3000/crypto/bitcoin');
